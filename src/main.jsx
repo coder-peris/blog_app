@@ -14,7 +14,7 @@ root.render(
     <StoreProvider store={store}>
       <BrowserRouter basename="/blog_app">
         <Routes>
-          <Route path="*" element={<App />} />
+          <Route path="/" element={<App />} />
         </Routes>
       </BrowserRouter>
     </StoreProvider>
