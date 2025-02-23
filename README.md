@@ -1,0 +1,1 @@
+This is a React JS blog app created using vite. The concepts used in this app are react-router v6+, easy-peasy redux, axios api, hooks, custom hooks, controlled inputs, json-server and other basics of ReactJS and CSS.
